@@ -1,0 +1,2 @@
+# GameServerSWS
+ServerGame
